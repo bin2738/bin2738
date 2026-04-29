@@ -1,16 +1,21 @@
-## Hi there 👋
+# Dmitry Kovtun — Software Engineer 🛠️
 
-<!--
-**bin2738/bin2738** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer specializing in **system integration** and the development of end-to-end solutions.
 
-Here are some ideas to get you started:
+### 🎯 My Approach
+I strictly follow a **Language Agnostic** principle: I choose the right tool for the specific task rather than the other way around. My expertise covers various tech stacks and architectural patterns designed to ensure seamless system interoperability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Integrations:** Developing middleware, APIs (REST, SOAP, gRPC), and data buses (ETL/ESB).
+- **Fullstack Development:** Building "turnkey" interfaces and server-side logic from scratch.
+- **System Thinking:** Designing robust connections between heterogeneous enterprise systems.
+
+### 🧰 Technology Background
+Throughout my career, I have worked with a wide range of technologies, including:
+- **Languages:** Python, JavaScript, Java, Go, C#.
+- **Infrastructure:** Docker, Linux Administration, CI/CD pipelines.
+- **Data:** PostgreSQL, NoSQL, RabbitMQ/Kafka.
+
+---
+
+> *"Integration is not just about writing code; it's about building bridges between business processes."*
+
