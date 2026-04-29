@@ -18,19 +18,3 @@ Throughout my career, I have worked with a wide range of technologies, including
 ---
 
 > *"Integration is not just about writing code; it's about building bridges between business processes."*
-
-### 🧰 Technology Stack
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="Languages & Frameworks" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="Tools & Infrastructure" />
-  </a>
-</p>
-
-
