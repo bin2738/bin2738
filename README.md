@@ -19,3 +19,15 @@ Throughout my career, I have worked with a wide range of technologies, including
 
 > *"Integration is not just about writing code; it's about building bridges between business processes."*
 
+### 🧰 Technology Stack
+
+![Python](https://shields.io)
+![JavaScript](https://shields.io)
+![Java](https://shields.io)
+![Go](https://shields.io)
+![C#](https://shields.io)
+
+![Django](https://shields.io)
+![Docker](https://shields.io)
+![PostgreSQL](https://shields.io)
+![RabbitMQ](https://shields.io)
