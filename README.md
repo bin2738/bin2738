@@ -21,7 +21,16 @@ Throughout my career, I have worked with a wide range of technologies, including
 
 ### 🧰 Technology Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" alt="Languages & Frameworks" />
+  </a>
+</p>
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" alt="Tools & Infrastructure" />
+  </a>
+</p>
 
 
