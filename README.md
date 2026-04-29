@@ -21,12 +21,13 @@ Throughout my career, I have worked with a wide range of technologies, including
 
 ### 🧰 Technology Stack
 
-![Python](https://shields.io)
-![JavaScript](https://shields.io)
-![Java](https://shields.io)
-![Go](https://shields.io)
-![C#](https://shields.io)
+<img src="https://badgen.net" height="30">
+<img src="https://badgen.net" height="30">
+<img src="https://badgen.net" height="30">
+<img src="https://badgen.net" height="30">
+<img src="https://badgen.net" height="30">
 
-![Docker](https://shields.io)
-![PostgreSQL](https://shields.io)
-![RabbitMQ](https://shields.io)
+<img src="https://badgen.net" height="30">
+<img src="https://badgen.net" height="30">
+<img src="https://badgen.net" height="30">
+
