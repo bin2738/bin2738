@@ -27,7 +27,6 @@ Throughout my career, I have worked with a wide range of technologies, including
 ![Go](https://shields.io)
 ![C#](https://shields.io)
 
-![Django](https://shields.io)
 ![Docker](https://shields.io)
 ![PostgreSQL](https://shields.io)
 ![RabbitMQ](https://shields.io)
