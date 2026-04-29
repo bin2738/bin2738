@@ -21,12 +21,11 @@ Throughout my career, I have worked with a wide range of technologies, including
 
 ### 🧰 Technology Stack
 
-<p align="left">
-  <img src="https://skillicons.dev" alt="Languages" />
-</p>
+![Python](https://shields.io)
+![JavaScript](https://shields.io)
+![Java](https://shields.io)
+![Go](https://shields.io)
+![C#](https://shields.io)
 
-<p align="left">
-  <img src="https://skillicons.dev" alt="Tools" />
-</p>
 
 
