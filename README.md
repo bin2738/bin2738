@@ -1,4 +1,4 @@
-# Dmitry Kovtun — Software Engineer 🛠️
+# Dmitry — Software Engineer 🛠️
 
 I am a Software Engineer specializing in **system integration** and the development of end-to-end solutions.
 
@@ -21,11 +21,7 @@ Throughout my career, I have worked with a wide range of technologies, including
 
 ### 🧰 Technology Stack
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 
