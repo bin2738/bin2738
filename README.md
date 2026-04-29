@@ -21,13 +21,12 @@ Throughout my career, I have worked with a wide range of technologies, including
 
 ### 🧰 Technology Stack
 
-<img src="https://badgen.net" height="30">
-<img src="https://badgen.net" height="30">
-<img src="https://badgen.net" height="30">
-<img src="https://badgen.net" height="30">
-<img src="https://badgen.net" height="30">
+<p align="left">
+  <img src="https://skillicons.dev" alt="Languages" />
+</p>
 
-<img src="https://badgen.net" height="30">
-<img src="https://badgen.net" height="30">
-<img src="https://badgen.net" height="30">
+<p align="left">
+  <img src="https://skillicons.dev" alt="Tools" />
+</p>
+
 
